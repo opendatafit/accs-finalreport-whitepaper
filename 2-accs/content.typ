@@ -2,15 +2,15 @@
 
 == Deliverables
 
-=== _WP6.1.1_ Integration with SasView, creating a small angle scattering (SAS) analysis pipeline
+=== _WP6.1.1_ Create a small angle scattering (SAS) analysis pipeline
 
-=== _WP6.1.2_ Configuration of Amazon infrastructure
+=== _WP6.1.2_ Configuration of cloud infrastructure
 
 === _WP6.1.3_ Improving the user-interface to the SAS analysis pipeline
 
 === _WP6.2.1_ Create an integrated data flow from small angle instruments
 
-=== _WP6.2.3_ Work cooperatively with international bodies such as ExPaNDS to establish the relevant metadata standards
+=== _WP6.2.3_ Work cooperatively to establish the relevant metadata standards
 
 === _WP6.4.1_ Integration of older opendata.fit workflows
 
