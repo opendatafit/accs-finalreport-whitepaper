@@ -17,7 +17,7 @@
     ACCS WP6 Final Report Whitepaper
     #h(1fr) 
     #set text(font: "Inconsolata", size: 8pt)
-    #fontawesome.icon[#fontawesome.github.square] #link("https://github.com/opendatafit/whitepapers")[opendatafit/whitepapers]
+    #fontawesome.icon[#fontawesome.github.square] #link("https://github.com/opendatafit/accs-finalreport-whitepaper")[opendatafit/accs-finalreport-whitepaper]
   ],
   footer: [
     #set text(8pt)
